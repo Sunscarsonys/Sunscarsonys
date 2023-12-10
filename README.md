@@ -14,18 +14,16 @@
 
 
 <!-- Intro  -->
-<h3 align="center" >
-    <samp style="font-family: cursive;">&gt; Hey! I'm
-        <b><a target="_blank" href="#">Sanskar Soni</a></b>
-    </samp>
-</h3>
+<h2 align="center" >
+   Hey! I'm Sanskar Soni
+</h2>
 
 <!-- Search  -->
 <p align="center"> 
   <samp>
-    <a href="#">「 Connect with me 」</a>
+    <a href="#">Connect With Me</a>
     <br>
-    「 I am a App Developer & full stack Web Developer 」
+    I am a App Developer & full stack Web Developer
     <br>
     
   </samp>
