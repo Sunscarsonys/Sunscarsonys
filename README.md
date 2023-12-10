@@ -9,7 +9,7 @@
 <!-- Sanskar Soni's Icon  -->
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscarsony"><img src="coding_img.jpg" height="200" /></a>
+        <a href="https://github.com/Sunscarsony"><img src="coding_img-removebg-preview.png" height="200" /></a>
     </div>
 
 
