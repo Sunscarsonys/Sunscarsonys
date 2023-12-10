@@ -9,16 +9,15 @@
 <!-- Sanskar Soni's Icon  -->
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscarsony"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" /></a>
+        <a href="https://github.com/Sunscarsony"><img src="coding_img.jpg" height="200" /></a>
     </div>
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Sanskar Soni</a></b>
-        </samp>
-  
+<h3 align="center" >
+    <samp style="font-family: cursive;">&gt; Hey! I'm
+        <b><a target="_blank" href="#">Sanskar Soni</a></b>
+    </samp>
 </h3>
 
 <!-- Search  -->
