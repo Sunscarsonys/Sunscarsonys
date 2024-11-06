@@ -1,5 +1,4 @@
   <a href="https://komarev.com/ghpvc/?username=Sunscar-Sony">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rSunscar-Sony&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <br>
 <div align="center">
@@ -126,14 +125,14 @@ Let's connect and create something amazing together!
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Sunscar-Sony">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscar-Sony&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  <a href="https://github.com/Sunscarsony">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsony&theme=radical&border=7F3FBF&background=0D1117" alt="Sunscar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sunscar-Sony">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscar-Sony&theme=radical" alt="Shivam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscarsony&theme=radical" alt="Sunscar's GitHub Contribution"/>
   </a>
 </p>
 
