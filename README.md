@@ -1,19 +1,20 @@
- <a href="https://komarev.com/ghpvc/?username=Sunscar-Sony">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rSunscarsony&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <a href="https://komarev.com/ghpvc/?username=Sunscar-Sony">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rSunscar-Sony&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+<br>
 <div align="center">
-          <a href="https://github.com/Sunscarsony">
-            <img
-                src="https://readme-typing-svg.herokuapp.com?color=burgandy&size=42&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Hi+it's+me+Sanskar+Soni;WED+DEVELOPER;SOFTWARE+ENGINEER;WEB+DESIGNER;"
-            />
+          <a href="https://github.com/Sunscar-Sony">
         </a>
 </div>
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscarsony"><img src="Sunscarsony06.png" height="360" /></a>
+        <a href="https://github.com/Sunscar-Sony"><img src="github-bg.png" height="400" /></a>
     </div>
     <div align="center">
-      <a href="https://github.com/Sunscarsony">
+      <a href="https://github.com/Sunscar-Sony">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
+            />
         </a>
     </div>
     <div align="center">
@@ -120,3 +121,35 @@ Let's connect and create something amazing together!
 </div>
 <hr>
 <div>
+   <div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Sunscar-Sony">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscar-Sony&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sunscar-Sony">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscar-Sony&theme=radical" alt="Shivam's GitHub Contribution"/>
+  </a>
+</p>
+
+<hr>
+</div>
+
+<br><br>
+
+<div>
+    <br>
+</div>
+
+<div>
+    <div align="center">
+        <a href="https://www.google.com/search?q=How+to+make+my+Internet+Connection+faster+%3F" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.gif" title="Loading..." height="100"/></a>
+        <p>Loading...</p>
+    </div>
+</div>
+
