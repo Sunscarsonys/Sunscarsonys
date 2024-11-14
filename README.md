@@ -60,6 +60,26 @@ Let's connect and create something amazing together!
 </div>
 <br>
 
+<div>
+   <div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Sunscarsony">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsony&theme=radical&border=7F3FBF&background=0D1117" alt="Sunscar's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sunscar-Sony">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscarsony&theme=radical" alt="Sunscar's GitHub Contribution"/>
+  </a>
+</p>
+
+<hr>
+</div>
+
 <!-- Skill Set (App Development)  -->
 <div align="center">
     <h3><b>App Development </b></h3>
@@ -119,25 +139,6 @@ Let's connect and create something amazing together!
 </div>
 </div>
 <hr>
-<div>
-   <div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Sunscarsony">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsony&theme=radical&border=7F3FBF&background=0D1117" alt="Sunscar's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sunscar-Sony">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscarsony&theme=radical" alt="Sunscar's GitHub Contribution"/>
-  </a>
-</p>
-
-<hr>
-</div>
 
 <br><br>
 
