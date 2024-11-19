@@ -51,13 +51,6 @@ I enjoy experimenting with new recipes and jamming to my favorite playlist.
 Let's connect and create something amazing together! 
 ]
 ```
-<div align="center">
-    <h3><b>Frontend Development</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
-  
-</div>
 <br>
 
 <div>
@@ -81,6 +74,14 @@ Let's connect and create something amazing together!
 </div>
 
 <!-- Skill Set (App Development)  -->
+<div align="center">
+    <h3><b>Frontend Development</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
+  
+</div>
+<br>
 <div align="center">
     <h3><b>App Development </b></h3>
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
