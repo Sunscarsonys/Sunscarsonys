@@ -7,7 +7,7 @@
 </div>
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscar-Sony"><img src="github-bg.png" height="400" /></a>
+        <a href="https://github.com/Sunscar-Sony"><img src="hero-2.png" height="240" /></a>
     </div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sunscar.me/" target="_blank">
