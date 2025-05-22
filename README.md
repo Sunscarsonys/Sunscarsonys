@@ -9,6 +9,10 @@
     <div align="center">
         <a href="https://github.com/Sunscar-Sony"><img src="github-bg.png" height="400" /></a>
     </div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sunscar.me/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=sunscarsony&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+  </a>
     <div align="center">
       <a href="https://github.com/Sunscar-Sony">
             <img
