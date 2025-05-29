@@ -1,27 +1,27 @@
-  <a href="https://komarev.com/ghpvc/?username=Sunscar-Sony">
+  <a href="https://komarev.com/ghpvc/?username=Sunscarsonys">
 </a>
 <br>
 <div align="center">
-          <a href="https://github.com/Sunscar-Sony">
+          <a href="https://github.com/Sunscarsonys">
         </a>
 </div>
 <div>
     <div align="center">
-        <a href="https://github.com/Sunscar-Sony"><img src="hero-2.png" height="240" /></a>
+        <a href="https://github.com/Sunscarsonys"><img src="hero-2.png" height="240" /></a>
     </div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.sunscar.me/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=sunscarsony&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=sunscarsonys&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
   </a>
     <div align="center">
-      <a href="https://github.com/Sunscar-Sony">
+      <a href="https://github.com/Sunscarsonys">
             <img
                 src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
             />
         </a>
     </div>
     <div align="center">
-        <a href="https://www.linkedin.com/in/sanskar-s-15b83329a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="https://www.linkedin.com/in/sunscarsonys/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
         <a href="mailto:sunscarsony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     </div>
     <div align="left">
@@ -60,10 +60,6 @@ Let's connect and create something amazing together!
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
     <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
 </div>
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Tech Stack Table    ----------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -194,14 +190,14 @@ Let's connect and create something amazing together!
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Sunscarsony">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsony&theme=radical&border=7F3FBF&background=0D1117" alt="Sunscar's GitHub streak"/>
+  <a href="https://github.com/Sunscarsonys">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunscarsonys&theme=radical&border=7F3FBF&background=0D1117" alt="Sunscar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sunscar-Sony">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscarsony&theme=radical" alt="Sunscar's GitHub Contribution"/>
+  <a href="https://github.com/Sunscarsonys">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunscarsonys&theme=radical" alt="Sunscar's GitHub Contribution"/>
   </a>
 </p>
 
