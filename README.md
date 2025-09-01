@@ -15,7 +15,10 @@
   <a href="https://sunscar.dev" target="_blank">
         <img src="http://itshivam.in/api/github-profile?username=sunscarsonys&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
-    
+
+  <div align="center">
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsunscarsonys%2Fsunscarsonys&label=VISITORS&labelColor=%2305C2F2&countColor=%2305C2F2" />
+    <br><br>
  
    <div align="center">
       <a href="https://github.com/Sunscarsonys">
