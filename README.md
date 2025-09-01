@@ -10,10 +10,14 @@
         <a href="https://github.com/Sunscarsonys"><img src="hero-2.png" height="240" /></a>
     </div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.sunscar.me/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=sunscarsonys&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-  </a>
-    <div align="center">
+
+
+  <a href="https://sunscar.dev" target="_blank">
+        <img src="http://itshivam.in/api/github-profile?username=sunscarsonys&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+    
+ 
+   <div align="center">
       <a href="https://github.com/Sunscarsonys">
             <img
                 src="https://readme-typing-svg.herokuapp.com?color=purple&size=36&center=true&vCenter=true&font=sans-serif&width=800&height=80&bold=true&lines=Prodigious...;Visionary...;Innovator...;"
